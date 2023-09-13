@@ -40,5 +40,6 @@ STATIC_URL = 'static/'
 STATICFILES_DIRS = [BASE_DIR / "static"]
 ```
 
+## デプロイを前提とした設定
 
 
